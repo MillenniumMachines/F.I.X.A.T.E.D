@@ -5,7 +5,7 @@ Welcome to fixated Docs here you'll find documentation related to the manufactur
 
 ##  DOCUMENTATION
 
-- All Fixated fixture plates 
+### - All Fixated fixture plates 
 
 MATERIAL           : Cast tooling plate, MIC6 or aluminium 6061/6068 that has been milled flat
 PROCESS            : Laser Cut Or CNC milled 

@@ -12,6 +12,7 @@ MATERIAL           : Cast tooling plate, MIC6 or aluminium 6061/6068 that has be
 PROCESS            : Laser Cut Or CNC milled 
 
 GENERAL TOLERANCES : 
+
                      - Standard fit tolerances for all 4.2mm holes to be tapped later to M5
 
                      - Standard fit tolerances for all 5.8mm holes to be reamed later to M6 

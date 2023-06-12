@@ -7,7 +7,7 @@ Welcome to the Millenium machines fixated project. Fixated is a list of fixtures
 
 - The FIXATED full monty
 
-(image of full monty)
+![The FIXATED full monty](images/Full-monty.PNG)
 
 A fixture plate system designed to fit the bed of a standard sized milo V1.5 (500x160mm) and features 
 hole spacings of 20mm on center intended for tapping to M5 and another set of holes also 20mm on center to accomadate M6 dowels.

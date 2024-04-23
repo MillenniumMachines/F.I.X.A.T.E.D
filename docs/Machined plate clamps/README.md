@@ -11,7 +11,7 @@ CAD :
 
 MATERIAL           : Bar stock, aluminium 6061/6068
 
-BOM :                
+BOM                :                
 
 - 2x 20x15x70mm Aluminium 6082T6 Flat Bar
 - 4x M5 x 10mm Form A Flat Washers (DIN 125) - Stainless Steel (A2)

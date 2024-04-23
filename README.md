@@ -3,7 +3,7 @@
 
 Welcome to the Millenium machines fixated project. Fixated is a list of fixtures and parts created for the Milo line of machines.
 
-## FIXATED currently includes  
+## FIXATED fixture plates  
 
 - The FIXATED full monty
 
@@ -30,6 +30,13 @@ The full monty's slim european cousin this fixture plate system designed to fit 
 
 The continental breakfast slim covers the same features as the regular continental breakfast but only covers the workable area of a standard milo v1.5.
 
-## Getting started
+For manufacturing specifications and technical drawings please see [documentation](docs/README.md).
+
+## FIXATED plate clamps
+
+The optimal way to hold your fixated plate down is to utilise these plate clamps. They can be 3d printed but for the best performance you will want to machine a set.
+
+![The FIXATED Continental breakfast](images/The-slim-continental-Breakfast.png)
 
 For manufacturing specifications and technical drawings please see [documentation](docs/README.md).
+

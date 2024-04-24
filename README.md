@@ -32,10 +32,10 @@ The continental breakfast slim covers the same features as the regular continent
 
 For manufacturing specifications and technical drawings please see [documentation](docs/README.md).
 
-## FIXATED plate clamps
+## FIXATED Plate Clamps
 
 The optimal way to hold your fixated plate down is to utilise these plate clamps. They can be 3d printed but for the best performance you will want to machine a set.
 
-![The FIXATED Continental breakfast](images/machined-clamp.jpg)
+![FIXATED machined plate clamp](images/machined-clamp.jpg)
 
 For manufacturing specifications and technical drawings please see [documentation](/docs/Machined%20plate%20clamps/README.md).

@@ -1,4 +1,4 @@
-# millenium machines F.I.X.A.T.E.D Machined Plate Clamps documetation 
+# Millennium Machines F.I.X.A.T.E.D Machined Plate Clamps Documentation 
 
 This page contains the information required to machine your own FIXATED plate clamps. This is considered an ideal first project as it utilises low cost small pieces of stock material, a few simple setups and only 3 different end mills.
 

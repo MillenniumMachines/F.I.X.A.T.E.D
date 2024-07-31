@@ -6,7 +6,7 @@ This page contains the information required to machine your own FIXATED plate cl
 
 CAD :
 - [STEP file](/CAD/Fixture%20Plates/Machined%20plate%20clamps/Fixated%20clamp.step)
-- [f3d file including CAM operations](/CAD/Fixture%20Plates/Machined%20plate%20clamps/Fixated%20clamp.step)
+- [f3d file including CAM operations](/CAD/Fixture%20Plates/Machined%20plate%20clamps/Fixated%20clamp.f3d)
 - [Fusion tool library](/CAD/Fixture%20Plates/Machined%20plate%20clamps/Fixated%20clamp%20LDO%20tool%20library.tools)
 
 MATERIAL           : Bar stock, aluminium 6061/6068

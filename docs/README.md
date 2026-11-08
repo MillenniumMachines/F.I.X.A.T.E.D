@@ -1,42 +1,35 @@
-# millenium machines F.I.X.A.T.E.D documetation 
+# Millennium Machines F.I.X.A.T.E.D Documentation
 
-Welcome to fixated Docs here you'll find documentation related to the manufacture and technical specifications of all our fixtures, these specifications are only a guideline and can be modified to meet your requirements.  
+Here you'll find documentation related to the manufacture and technical specifications of all our fixtures. These specifications are only a guideline and can be modified to meet your requirements.
 
+## All Fixated fixture plates
 
-##  DOCUMENTATION
+**MATERIAL:** Cast tooling plate, MIC6 or aluminium 6061/6068 that has been milled flat.
 
-### - All Fixated fixture plates 
+**PROCESS:** Laser cut or CNC milled.
 
-MATERIAL           : Cast tooling plate, MIC6 or aluminium 6061/6068 that has been milled flat
+**GENERAL TOLERANCES FOR PRE-TAPPED AND PRE-REAMED PARTS:**
 
-PROCESS            : Laser Cut Or CNC milled 
+- Standard fit tolerances for all 4.2mm holes to be tapped later to M5.
+- Standard fit tolerances for all 5.8mm holes to be reamed later to 6mm (Full Monty only).
+- Perimeter tolerance of -0.05mm +0mm.
+- Perimeter parallelism tolerance of 0.05mm across the 2 longest sides.
+- No given tolerance for parallelism of top and bottom faces.
+- Flatness tolerance of top and bottom 0.05mm across length and width of part.
 
-GENERAL TOLERANCES FOR PRE-TAPPED AND PRE-REAMED PARTS: 
+### Notes
 
-                     - Standard fit tolerances for all 4.2mm holes to be tapped later to M5
+These plates are intended to be laser cut or milled as blanks. All holes have been sized to be tapped and reamed by the end user to reduce costs.
 
-                     - Standard fit tolerances for all 5.8mm holes to be reamed later to M6 (full monty only)
-                     
-                     - Perimeter tolerance of -0.05mm +0mm 
-                     
-                     - Perimeter parralelism tolerance of 0.05mm acrross the 2 longest sides
-                     
-                     - No given tolerance for parralelism of top and bottom faces
-                     
-                     - Flatness tolerance of top and bottom 0.05mm across length and width of part
-                   
-NOTES: These plates are intended to be laser cut or milled as blanks, all holes have been sized to tapped and reamed by the end user to reduce costs. Full monty and full monty slim may cause issues with material stress release during manufacture which can lead to part warping if you do not need the use of the M6 dowel feature consider using the continental breakfast variants instead. If you require the tolerances for a tapped and reamed plate you can find the tolerances below.
+Full Monty and Full Monty Slim may cause issues with material stress release during manufacture, which can lead to part warping. If you do not need the 6mm dowel feature, please consider using the Continental Breakfast variants instead.
 
-GENERAL TOLERANCES FOR TAPPED AND REAMED PARTS: 
+If you need the tolerances for a tapped and reamed plate, you can find them below.
 
-                     - M5 threaded holes (H6)
+**GENERAL TOLERANCES FOR TAPPED AND REAMED PARTS:**
 
-                     - M6 Dowel holes (H7) (full monty only)
-                     
-                     - Perimeter tolerance of -0.05mm +0mm 
-                     
-                     - Perimeter parralelism tolerance of 0.05mm acrross the 2 longest sides
-                     
-                     - No given tolerance for parralelism of top and bottom faces
-                     
-                     - Flatness tolerance of top and bottom 0.05mm across length and width of part
+- M5 threaded holes (H6).
+- 6mm dowel holes (H7) (Full Monty only).
+- Perimeter tolerance of -0.05mm +0mm.
+- Perimeter parallelism tolerance of 0.05mm across the 2 longest sides.
+- No given tolerance for parallelism of top and bottom faces.
+- Flatness tolerance of top and bottom 0.05mm across length and width of part.

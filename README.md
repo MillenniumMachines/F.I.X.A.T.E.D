@@ -1,40 +1,39 @@
-# Millennium Machines F.I.X.A.T.E.D
+# F.I.X.A.T.E.D - The Millennium Machines Fixturing System
 
+Welcome to the Millennium Machines F.I.X.A.T.E.D project. Fixated is a list of fixtures and parts created for the Milo V1.5 line of machines.
 
-Welcome to the Millennium Machines fixated project. Fixated is a list of fixtures and parts created for the Milo v1.5 line of machines.
+## Fixture plates
 
-## FIXATED fixture plates
+### The Full Monty
 
-### The FIXATED full monty
+A fixture plate system designed to fit the bed of a standard-sized Milo V1.5 (500x160mm), featuring hole spacings of 20mm on center intended for tapping to M5, and another set of holes also 20mm on center to accommodate 6mm dowel pins.
 
-A fixture plate system designed to fit the bed of a standard sized milo V1.5 (500x160mm) and features hole spacings of 20mm on center intended for tapping to M5 and another set of holes also 20mm on center to accomadate M6 dowels.
+![The Fixated Full Monty](images/Full-Monty.png)
 
-![The FIXATED full monty](images/Full-monty.PNG)
+### The Full Monty (SLIM)
 
-### The FIXATED full monty (SLIM)
+The Full Monty Slim covers the same features as the regular Full Monty, but its holes only cover the workable area of a standard Milo V1.5.
 
-The full monty slim covers the same features as the regular full monty but only covers the workable area of a standard milo v1.5.
+![The Fixated Full Monty slim](images/Full-Monty-slim.png)
 
-![The FIXATED full monty slim](images/Full-monty-slim.png)
+### The Continental Breakfast
 
-### The FIXATED continental breakfast 
+The Full Monty's slim European cousin, this fixture plate system is designed to fit the bed of a standard-sized Milo V1.5 (500x160mm), and features hole spacings of 20mm on center intended for tapping to M5. Unlike the Full Monty, it does not include the holes for 6mm dowel pins.
 
-The full monty's slim european cousin this fixture plate system designed to fit the bed of a standard sized milo V1.5 (500x160mm) and features hole spacings of 20mm on center intended for tapping to M5 unlike the full monty it does not include the holes for the M6 dowels.
+![The Fixated Continental Breakfast](images/The-Continental-Breakfast.png)
 
-![The FIXATED Continental breakfast](images/The-continental-Breakfast.png)
+### The Continental Breakfast (SLIM)
 
-### The FIXATED continental breakfast (SLIM)
+The Continental Breakfast slim covers the same features as the regular Continental Breakfast, but its holes only cover the workable area of a standard Milo V1.5.
 
-The continental breakfast slim covers the same features as the regular continental breakfast but only covers the workable area of a standard milo v1.5.
+![The Fixated Continental Breakfast slim](images/The-Continental-Breakfast-slim.png)
 
-For manufacturing specifications and technical drawings please see [documentation](docs/README.md).
+For manufacturing specifications and tolerances, please see the [documentation](docs/README.md).
 
-![The FIXATED Continental breakfast](images/The-slim-continental-Breakfast.png)
+## Plate clamps
 
-## FIXATED Plate Clamps
+The best way to hold your Fixated plate down is with these plate clamps. They can be 3D printed, but for the best performance you will want to machine a set.
 
-The optimal way to hold your fixated plate down is to utilise these plate clamps. They can be 3d printed but for the best performance you will want to machine a set.
+![Fixated machined plate clamp](images/machined-clamp.jpg)
 
-For manufacturing specifications and technical drawings please see [documentation](/docs/Machined%20plate%20clamps/README.md).
-
-![FIXATED machined plate clamp](images/machined-clamp.jpg)
+For manufacturing specifications and technical drawings, please see the [documentation](docs/Machined%20plate%20clamps/README.md).

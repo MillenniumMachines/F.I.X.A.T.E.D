@@ -1,7 +1,7 @@
-# millenium machines F.I.X.A.T.E.D
+# Millennium Machines F.I.X.A.T.E.D
 
 
-Welcome to the Millenium machines fixated project. Fixated is a list of fixtures and parts created for the Milo line of machines.
+Welcome to the Millennium Machines fixated project. Fixated is a list of fixtures and parts created for the Milo v1.5 line of machines.
 
 ## FIXATED fixture plates
 
